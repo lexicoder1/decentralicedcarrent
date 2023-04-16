@@ -1,0 +1,36 @@
+.hero-content__car-img {
+
+    width: 60%;
+    margin-right: -10px;
+}
+.navbar__img{
+    color: #F7C8E0;
+    font-size: 24px;
+    font-weight: 900;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.connect{
+    background: #F7C8E0 ;
+    width: 150px;
+    height:40px;
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+.mkp{
+    display: flex;
+    justify-content: center;
+}
+/* .pay{
+    margin-top: 100px  !important; 
+}  */
+
+.book-section{
+    margin-top: 20px !important;
+}
