@@ -91,9 +91,7 @@ useEffect(()=>{
               </ConnectKitButton.Custom>
 
           {/* mobile */}
-          <div className="mobile-hamb" onClick={openNav}>
-            <i className="fa-solid fa-bars"></i>
-          </div>
+          
         </div>
       </nav>
     </>
